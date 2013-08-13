@@ -27,7 +27,7 @@ body {
 
 .name {
   width: 350px;
-  font-size: 26pt;
+  font-size: 24pt;
   position: absolute;
   left: 130px;
   top: 130px;
@@ -36,11 +36,11 @@ body {
 
 .words {
   width: 350px;
-  font-size: 12pt;
+  font-size: 11pt;
   position: relative;
   display: block;
   left: 130px;
-  margin: 200px 0 0 0;
+  margin: 190px 0 0 0;
   line-height: 20pt;
 }
 
