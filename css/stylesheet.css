@@ -63,10 +63,12 @@ body {
   position: absolute;
   left: 10%;
   top: 130px;
+  font-weight: 600;
+  /*letter-spacing: 3px;*/
 }
 
 .words {
-  width: 360px;
+  width: 350px;
   position: relative;
   display: block;
   left: 10%;
