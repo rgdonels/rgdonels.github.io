@@ -29,18 +29,19 @@ body {
   width: 350px;
   font-size: 26pt;
   position: absolute;
-  left: 10%;
+  left: 130px;
   top: 130px;
   font-weight: 600;
-  /*letter-spacing: 3px;*/
 }
 
 .words {
   width: 350px;
+  font-size: 12pt;
   position: relative;
   display: block;
-  left: 10%;
+  left: 130px;
   margin: 200px 0 0 0;
+  line-height: 20pt;
 }
 
 .link {
