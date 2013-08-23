@@ -66,3 +66,13 @@ a:hover {
 #right {
   float: left;
 }
+
+.bigBlock {
+  height: 800px;
+  width: 100%;
+  position: absolute;
+  top: 100%;
+  background-color: #707070;
+}
+
+
