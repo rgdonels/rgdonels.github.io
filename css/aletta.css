@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Marion';
+  src: url('fonts/Marion.ttc')  format('truetype');
+  font-weight: normal;
+}
+
+html { 
+  background-color: #429ab5;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'Marion', Helvetica Neue, Helvetica, sans-serif;
+  color: #fff;
+}
+
+.centered {
+	position: absolute;
+	height: 127px;
+	width: 168px;
+	top: 50%;
+	left: 50%;
+	margin: -120px 0 0 -84px;
+}
+
+#bird {
+	margin: 0 0 0 30px;
+	position: relative;
+}
+
+#label {
+	width: 165px;
+	margin: 20px 0 0 0;
+	font-size: 2em;
+	text-align: center;
+	position: relative;
+	display: inline-block;
+}
