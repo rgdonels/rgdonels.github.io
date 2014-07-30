@@ -38,7 +38,6 @@ body {
 	display: inline-block;
 }
 
--webkit-animation: fade-in ease;
 @-webkit-keyframes fadein {
 from {
   opacity:0;
