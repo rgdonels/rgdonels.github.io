@@ -12,6 +12,7 @@ html {
 body {
   font-family: 'Marion', Helvetica Neue, Helvetica, sans-serif;
   color: #fff;
+  -webkit-animation:fadein 1s;
 }
 
 .centered {
@@ -35,4 +36,14 @@ body {
 	text-align: center;
 	position: relative;
 	display: inline-block;
+}
+
+-webkit-animation: fade-in ease;
+@-webkit-keyframes fadein {
+from {
+  opacity:0;
+}
+to {
+  opacity:1;
+}
 }
