@@ -19,13 +19,27 @@ body {
   color: #fff;
 }
 
+.container {
+  width: 100%;
+  text-align: center;
+  margin: 10% 0 0 0;
+}
+
 #downloadLink {
-  width: 350px;
+  width: 100%;
   font-size: 24pt;
   position: absolute;
-  left: 130px;
   top: 130px;
   font-weight: 600;
+  text-align: center;
+  text-decoration: underline;
+  margin: 15% 0 0 0;
+}
+
+#poutLogo {
+  width: 200px;
+  height: 150px;
+
 }
 
 /*.words {
